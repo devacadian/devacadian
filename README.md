@@ -1,4 +1,4 @@
-Hey! 👋 Welcome to Acadian.eth's github profile - currently building Aifarmer.io 🛠️
+Hey! 👋 Welcome to Acadian.eth's github profile - currently building [AirFarmer.io](https://airfarmer.io) 🛠️
 
 Checkout my repos below - I may have built a few things you might find useful! 👇
 
