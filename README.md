@@ -1,4 +1,4 @@
-Hey! 👋 Welcome to Acadian.eth's github profile - currently building [AirFarmer.io](https://airfarmer.io) & [BasePay.app](https://basepay.app) 🛠️
+Hey! 👋 Welcome to Acadian.eth's github profile - currently maintaining [nodemarket.io](https://nodemarket.io) & doing Freelance Web Development🛠️
 
 Checkout my repos below - I may have built a few things you might find useful! 👇
 
