@@ -5,7 +5,7 @@ Full Stack Developer, Product Builder, and UI/UX Designer focused on high-perfor
 Checkout my repos below - I may have built a few things you might find useful! 👇
 
 
-- [Freebird](https://github.com/devacadian/Freebird-Twitter-Logo-Restorer), a chrome extension that restores the original twitter logo/favicon. 🐦
+- [Freebird](https://github.com/devacadian/Freebird-Twitter-Logo-Restorer), a chrome extension that restores the original twitter logo/favicon & more. 🐦
 
 - [Twitter/X Auto Scroller](https://github.com/devacadian/Twitter-Scroller), a chrome extension that lets you auto scroll twitter at your desired speed. 📜
 
